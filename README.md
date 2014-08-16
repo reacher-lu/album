@@ -12,5 +12,5 @@ run  "node fire" to change title
 ````
 
 ## Grunt plugin
-grunt-replace
-grunt-include-replace
+*grunt-replace
+*grunt-include-replace
